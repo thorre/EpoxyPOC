@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Epoxy POC</string>
+    <string name="action_settings">Settings</string>
+    <string name="header_title">Detta är en rubrik</string>
+    <string name="header_caption">Ipsum lorem osv</string>
+    <string name="loader_text">Laddar...</string>
+</resources>
